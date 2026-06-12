@@ -1,5 +1,7 @@
 # Obfuscation Header
 
+UC Thread: https://www.unknowncheats.me/forum/c-and-c-/754651-obfuscation-header.html
+
 ## 📋 Macro List
 
 ### Assembly Obfuscation
@@ -29,13 +31,13 @@
 
 ---
 
-# 🖼️ Before IDA Graph
+#  Before IDA Graph
 
 ![IDA Graph](https://i.imgur.com/BR5RscL.png)
 
 ---
 
-# 🖼️ After IDA Graph
+#  After IDA Graph
 
 ![IDA Graph](https://i.imgur.com/S2jcRxN.png)
 
