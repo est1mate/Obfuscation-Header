@@ -43,7 +43,7 @@ UC Thread: https://www.unknowncheats.me/forum/c-and-c-/754651-obfuscation-header
 
 ---
 
-# 🚀 Simple Usage Example
+#  Simple Usage Example
 
 ```cpp
 #include <iostream>
